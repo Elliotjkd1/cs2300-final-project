@@ -11,3 +11,9 @@ Optional: 4 - 6 <br>
 5) https://github.com/tylerferguson/NBAinjuries
 6) https://www.basketball-reference.com/leagues/NBA_2012.html
 7) https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018 
+
+## Local raw files
+
+- `injuries_2010-2020.csv`: Injury transaction data used to identify ankle-sprain reports.
+- `nba_player_games_2019_20.csv`: NBA player game logs downloaded through `nba_api`.
+- `nba_team_games_2019_20.csv`: NBA team game logs downloaded through `nba_api`.
